@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python full-stack<br>👯 I’m looking to collaborate on Python <br>🤝 I’m looking for help with cloud deployment and project optimization<br>🌱 I’m currently learning Django, React.js<br>📫 How to reach me yashwanth3351@gmail.com<br>⚡ Fun fact My code works perfectly until someone is watching
+👯 I’m looking to collaborate on Python <br>🤝 I’m looking for help with cloud deployment and project optimization<br>🌱 I’m currently learning Django, React.js<br>📫 How to reach me yashwanth3351@gmail.com<br>⚡ Fun fact My code works perfectly until someone is watching
 
 
 ## 🌐 Socials:
